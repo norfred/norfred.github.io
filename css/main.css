@@ -1,0 +1,114 @@
+.full-width {
+  width: 100%;
+}
+
+.image-logo {
+  background-image: url(/Users/manfredi/Desktop/Sail/img/logo.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  text-align: center;
+  width: 70px;
+  height: 70px;
+  margin: 80px auto 40px auto;
+}
+
+.image-background {
+  background-image: url(/Users/manfredi/Desktop/Sail/img/photo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  width: 100%;
+}
+
+.layer {
+  /*background-color: rgba(0, 0, 0, 0.2);*/
+
+}
+
+.menu-text {
+  margin: 10px 0 10px 0;
+}
+
+/* MAIN HEADER */
+.main-header {
+  letter-spacing: 1.8px;
+  font-weight: normal;
+}
+
+/* ARTICLE */
+
+.image-background-article {
+  background-image: url(/Users/manfredi/Desktop/Sail/img/photo1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 18em;
+}
+
+.subtitle-img {
+  color: white;
+  padding-top: 220px;
+  margin-right: 1.25em;
+  text-align: right;
+}
+
+.header-article {
+  padding-top: 0.4em;
+  margin-bottom: -0.4em;
+}
+
+.separator-img {
+  width: 60px;
+  height: 60px;
+}
+
+.paragraph-text {
+  margin-top: -2em;
+  text-align: left;
+}
+
+.author-text {
+  font-size: 0.875em;
+  text-align: left;
+  margin-top: -0.6em;
+}
+
+.footer-article {
+  background-color: rgba(0, 0, 0, 0.02);
+  color: black;
+  text-align: center;
+}
+
+.contact-button {
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+  text-transform: uppercase;
+}
+
+.contact-button:hover {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-color: transparent;
+  color: black;
+}
+
+.description {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding-bottom: 1.875em;
+}
+
+.sailboats {
+  background-image: url(/Users/manfredi/Desktop/Sail/img/sailboats-img.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  max-width: 200px;
+}
